@@ -6,15 +6,14 @@
 De cómo y por qué involucrarse en los problemas del país
 (¡y el mundo!) desde nuestros conocimientos en computación.
 
-
 ---
 
 # Quienes somos
 
 Pato
 
-- Ingeniero en sistemas (UTN)
-- Data enthusiat
+- Ingeniero en Sistemas (UTN)
+- Data enthusiast
 - Emprendedor
 - Guitar hero hero
 - Miembro de Open Data Córdoba
@@ -31,8 +30,15 @@ Martín
 
 ---
 
-# *"Scientia est potentia"*
-## *Francis Bacon*
+# Agenda
+
+- Un poco de contexto: ¿Por qué hacerlo?
+- Okay, me convenciste: ¿Cómo lo hago?
+
+---
+
+# ¿Por qué?
+## *"Scientia est potentia"* (Francis Bacon)
 
 ![](https://www.zendalibros.com/wp-content/uploads/2018/05/francis-bacon.jpg){.background}
 
@@ -40,11 +46,9 @@ Martín
 
 ![](https://i.imgflip.com/1qkqrg.jpg)
 
-
 ---
-
+# ¿Por qué?
 # El privilegio del oficio
-
 
 ![](https://i.snag.gy/02POdl.jpg)
 
@@ -54,62 +58,59 @@ Martín
 
 ---
 
-
-
 # ¿Por qué?
-
-- Es fácil (?)
-- Es divertido
-- Es necesario
-
----
-
 ## Fácil
 
 El mito de cruzar dato
 
 ---
 
-## divertido
+# ¿Por qué?
+## Divertido
 
 - Te acerca a gente interesante
 - No sólo "geeks"
 
 ---
-
+# ¿Por qué?
 ## Necesario
 
+---
+# ¿Por qué?
+## Nos da chapa (The Selfish Way)
 
 ---
 
-# Y qué podemos hacer?
+# ¿Cómo nos involucramos?
+<!-- 
+Creo que este tiene que ser el foco de la charla. Hablar desde nuestra experiencia y contar anécdotas la va a hacer rica y dinámica.
+Además creo que los que asistan deben tener ganas de involucrarse, seria bueno mostrar ejemplos de Proyectos para disparar ideas.
+Dividiría en 2: Nuestra Experiencia, Otras Experiencias.
+-->
+## Nuestra Experiencia
 
-Ejemplos
-
-- Análisis de Elecciones / Caso Fit
-- Humitos
+- La duda, ¿Es posible involucrarse socialmente desde la tecnología? Experiencia personal de Pato.
+- Caso Fit
+- Análisis de Elecciones y Primer Hackaton Democracia con Códigos
 - Open Data Cordoba
+- Columna Radial
+- Precios Claros / CEPA
+
+## Otras Experiencias / Nuestras inpiraciones
+
+- Humitos
 - Quintana Libre
 - Socios.red
 
-
 ---
 
-# y cómo?
+# Y cómo? (Algunos tips)
 
 En grupo!
 
 - No tenemos mucho tiempo
 - No sabemos de todo
--
-
-<!--
-vincularse y articular con otros nos nutre
--->
-
-
-
-
-
+- Siempre, pero siempre, hay un poco de rosca. ¯\_(ツ)_/¯
+- vincularse y articular con otros nos nutre
 
 b
