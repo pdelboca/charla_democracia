@@ -1,10 +1,10 @@
 ---
 
-# Hacia una democracia con cÃ³digos
-## Pato Del Boca y MartÃ­n GaitÃ¡n
+# Hacia una democracia con códigos
+## Pato Del Boca y Martín Gaitán
 
-De cÃ³mo y por quÃ© involucrarse en los problemas del paÃ­s
-(Â¡y el mundo!) desde nuestros conocimientos en computaciÃ³n.
+De cómo y por qué involucrarse en los problemas del país
+(¡y el mundo!) desde nuestros conocimientos en computación.
 
 ---
 
@@ -16,41 +16,40 @@ Pato
 - Data enthusiast
 - Emprendedor
 - Guitar hero hero
-- Miembro de Open Data CÃ³rdoba
+- Miembro de Open Data Córdoba
 
 {.column}
 
-MartÃ­n
+Martín
 
-- Ingeniero en computaciÃ³n (UNC)
+- Ingeniero en computación (UNC)
 - Semi junior software developer
 - Padre de Ema
 - Deudor
-- Miembro de Open Data CÃ³rdoba
+- Miembro de Open Data Córdoba
 
 ---
 
 # Agenda
 
-
 - Intro: Democracia vs brecha digital
-- Â¿Por quÃ©?
-- Okay, me convenciste: Â¿CÃ³mo lo hago?
+- ¿Por qué?
+- ¿Cómo lo hago?
+- Ejemplos / Nuestra Experiencia
 
 ---
 
 # Democracia en tiempos del "big data"
 
 
-- InformatizaciÃ³n de nuestra vida en sociedad
-    - ComunicaciÃ³n
-    - PolÃ­tica
+- Informatización de nuestra vida en sociedad
+    - Comunicación
+    - Política
     - Negocios
 
-- Analfabetismo tecnolÃ³gico
-
-    - Implica una nueva forma de exclusiÃ³n de la democracia
-    - Y tambiÃ©n polÃ­ticos precarios para estos tiempos
+- Analfabetismo tecnológico
+    - Implica una nueva forma de exclusión de la democracia
+    - Y también políticos precarios para estos tiempos
 
 ![](http://www.babeldigital.com.ar/data/img_cont/fk_editor/image/VOTO-ELECTRONICO-ELECCIONES-VOTAR.jpg)
 
@@ -75,55 +74,35 @@ MartÃ­n
 
 ![una gran responsabilidad](https://i.pinimg.com/originals/ff/dc/d3/ffdcd3e94c886c577787234345daf590.jpg)
 
-
-
-
-
-
-
-# No, en serio Â¿Por quÃ©?
-
-## No todo es negocio {.big}
-
-<!--
-
-- hay necesidades tecnologicas no satisfechas por la lÃ³gica de mercado
-- tambien como profesionales: desarrollar otros intereses y aptitudes.
-- Lo que hacemos es creativo, Comparacion con artistas.
--->
-
-
-<!--
-
-## *"Scientia est potentia"* (Francis Bacon)
-
-![](https://www.zendalibros.com/wp-content/uploads/2018/05/francis-bacon.jpg){.background}
-
-
 ---
 
-![Neerd](https://i.imgflip.com/1qkqrg.jpg)
-
--->
-
----
-
-
-
-
-# El privilegio del oficio
+# Porque se puede: "El privilegio del oficio"
 
 ![](https://i.snag.gy/02POdl.jpg)
 
 ![](rango de salarios nacional o internacional)
 
-
+<!--
+ Plasticidad y eficacia del oficio. otras profesiones no te permiten por mas que quieras involucrarte. ya sea porque no tenes tiempo o porque no tenes herramientas.
+ Antropologia Forense vs Aplicacion de una Noche. Entry Level mas bajo.
+-->
 
 
 ---
+# No, en serio ¿Por qué?
+## No todo es negocio {.big}
 
-# Â¿Por quÃ©?
-## Es "fÃ¡cil" (join ftw!)
+<!--
+
+- hay necesidades tecnologicas no satisfechas por la lógica de mercado
+- tambien como profesionales: desarrollar otros intereses y aptitudes.
+- Lo que hacemos es creativo, Comparacion con artistas.
+-->
+
+---
+
+# ¿Por qué?
+## Es "fácil" (join ftw!)
 
 ![](https://i.pinimg.com/originals/b4/9b/8f/b49b8f9a85c58cd81be7efd1f9dcda56.png)
 
@@ -135,51 +114,51 @@ MartÃ­n
 
 ---
 
-# Â¿Por quÃ©?
+# ¿Por qué?
 ## Divertido
 
 - Te acerca a gente interesante
-- No sÃ³lo "geeks"
+- No sólo "geeks"
+- Es una forma de expresarse
 
 ---
-# Â¿Por quÃ©?
-
+# ¿Por qué?
 ## Nos da chapa (The Selfish Way)
 
+---
+
+# ¿Cómo nos involucramos?
+## Procedimiento para Involucrarse
+1) Encontrar un problema que te interpele
+2) Hackearlo
 
 ---
-# Â¿CÃ³mo nos involucramos?
-<!--
-Creo que este tiene que ser el foco de la charla. Hablar desde nuestra experiencia y contar anÃ©cdotas la va a hacer rica y dinÃ¡mica.
-AdemÃ¡s creo que los que asistan deben tener ganas de involucrarse, seria bueno mostrar ejemplos de Proyectos para disparar ideas.
-DividirÃ­a en 2: Nuestra Experiencia, Otras Experiencias.
--->
 ## Nuestra Experiencia
 
-- La duda, Â¿Es posible involucrarse socialmente desde la tecnologÃ­a? Experiencia personal de Pato.
+- Elsie
+- Bonito
 - Caso Fit
-- AnÃ¡lisis de Elecciones y Primer Hackaton Democracia con CÃ³digos
+- Análisis de Elecciones y Primer Hackaton Democracia con Códigos
 - Open Data Cordoba
 - Columna Radial
 - Precios Claros / CEPA
-- Elsie
--
+- Miau y Pero Cristina.
 
 ## Otras Experiencias / Nuestras inpiraciones
 
-- Humitos
+- Argentina en Python
+- Tweet Humitos Cuba
 - Quintana Libre
 - Socios.red
-
+- Poroteo
+- Activa el Congreso
 ---
 
-# Y cÃ³mo? (Algunos tips)
+# Y cómo? (Algunos tips)
 
 En grupo!
 
 - No tenemos mucho tiempo
 - No sabemos de todo
-- Siempre, pero siempre, hay un poco de rosca. Â¯\_(ãƒ„)_/Â¯
 - vincularse y articular con otros nos nutre
-
-b
+- Siempre, pero siempre, hay un poco de rosca. ¯\_(???)_/¯
